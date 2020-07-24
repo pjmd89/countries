@@ -13,6 +13,8 @@ con las distintas modificaciones (hasta la version 3), alpha2, alpha3 y numeric.
 
 También se define el nombre de la capital del pais, el continente al que pertenece,
 huso horario, Moneda, dominio de internet, idioma y sus respectivas subdivisiones.
+Adicional a esto, tambien contiene el codigo telefonico de discado internacional,
+información obtenida desde itu.int y countrycode.org.
 
 Las subdivisiones contienen su categoria divisoria, codigo asignado a la entidad, nombre
 lenguaje, entre otros datos aplicados a las caracteristicas de la subdivision
