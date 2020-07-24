@@ -19,7 +19,7 @@ información obtenida desde itu.int y countrycode.org.
 Las subdivisiones contienen su categoria divisoria, código asignado a la entidad, nombre,
 lenguaje, entre otros datos aplicados a las caracteristicas de la subdivisión
 
-Entidades con informacion faltante
+Entidades con información faltante:
 - AQ
 - AX
 - BQ
